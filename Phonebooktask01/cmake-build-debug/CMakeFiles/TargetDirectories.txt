@@ -1,0 +1,3 @@
+/Users/vagram/CLionProjects/Phonebooktask01/cmake-build-debug/CMakeFiles/Phonebooktask01.dir
+/Users/vagram/CLionProjects/Phonebooktask01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vagram/CLionProjects/Phonebooktask01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
